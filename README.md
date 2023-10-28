@@ -12,7 +12,7 @@ Virtualize Network Home Lab with GNS3 and VMware Workstation Player. Install and
 - <b>VMware Workstation 17 Player</b>  <br />
 - <b>Kali</b> <br />
 - <b>Windows 10</b> (22H2) <br />
-- <b>Ubuntu Server</b> (22.04.3)
+- <b>Ubuntu Server</b> (22.04.3) <br />
 - <b>Cisco 7200</b> (153-3.XB12) <br />
 - <b>Cisco ASAv</b> (9.16.2 CML) <br />
 - <b>Cisco IOSvL2</b> (15.2(20200924:215240)) <br />
@@ -26,7 +26,7 @@ Virtualize Network Home Lab with GNS3 and VMware Workstation Player. Install and
 [Download GNS3](https://www.gns3.com/software/download)<br />
 [Download VMware Workstation 17 Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)<br /> 
 [Download Kali](https://www.kali.org/get-kali/#kali-virtual-machines)<br /> 
-[Download Windows 10 ISO](https://www.microsoft.com/software-download/windows10)<br />
+[Download Windows 10](https://www.microsoft.com/software-download/windows10)<br />
 [Download Ubuntu Server](https://ubuntu.com/download/server)<br />
 [Download Cisco 7200](https://www.gns3.com/marketplace/featured/cisco-7200)<br />
 [Download Cisco ASAv](https://www.gns3.com/marketplace/featured/cisco-asav)<br />
@@ -34,14 +34,16 @@ Virtualize Network Home Lab with GNS3 and VMware Workstation Player. Install and
 
 <br />
 <br />
-While installing GNS3 select GNS3 VM, VMware Workstation and "Yes" to SolarWinds Network Monitoring: <br/>
+While installing GNS3 select GNS3 VM, VMware Workstation, "Yes" to SolarWinds and see download link below: <br/>
+
+[Download SolarWinds Hybrid Cloud Observability Evaluation](https://www.solarwinds.com/hybrid-cloud-observability/confirmation?program=26605&campaign=7012J000001tHtYQAU&parentCampaign=7012J000001tHtYQAU)<br />
+
 <img src="https://i.imgur.com/VtmYWLI.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/EmOB8FV.png" height="80%" width="80%" />
-<img src="blob:https://imgur.com/b112ed5d-86af-471d-99b3-1763408424be" height="80%" width="80%" />
+<img src="https://i.imgur.com/DRa1tFv.png" height="80%" width="80%" />
 <br />
 <br />
 While installing WMware Workstation 17 Player select Enhanced Keyboard Driver: <br/>
 <img src="https://i.imgur.com/UayaJ9M.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/EmOB8FV.png" height="80%" width="80%" />
 <br />
 <br />
