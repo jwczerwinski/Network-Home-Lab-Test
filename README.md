@@ -34,16 +34,23 @@ Virtualize Network Home Lab with GNS3 and VMware Workstation Player. Install and
 
 <br />
 <br />
-While installing GNS3 select GNS3 VM, VMware Workstation, "Yes" to SolarWinds and see download link below: <br/>
-
-[Download SolarWinds Hybrid Cloud Observability Evaluation](https://www.solarwinds.com/hybrid-cloud-observability/confirmation?program=26605&campaign=7012J000001tHtYQAU&parentCampaign=7012J000001tHtYQAU)<br />
-
+While installing VMware Workstation Player select Enhanced Keyboard Driver. Open GNS3 VM.ova file to import GNS3 VM into VMware Workstation Player. In VMware, Edit virtual machine settings for GNS3 VM to be 8 GB RAM, 4 CPU cores and 40 GB storage: <br/>
+<img src="https://i.imgur.com/UayaJ9M.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/dmumRjj.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/ES5lToG.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/E6KwymH.png" height="80%" width="80%" />
+<br />
+<br />
+While installing GNS3 select GNS3 VM, VMware Workstation, and "No" to SolarWinds. Start GNS3, while in the setup wizard, add the GNS3 VM: <br/>
 <img src="https://i.imgur.com/VtmYWLI.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/EmOB8FV.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/DRa1tFv.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/9y7nyWw.png" height="80%" width="80%" />
 <br />
 <br />
-While installing WMware Workstation 17 Player select Enhanced Keyboard Driver: <br/>
-<img src="https://i.imgur.com/UayaJ9M.png" height="80%" width="80%" />
+Import GNS3 Appliance images: See diagram for appliances and NICs: File > Import Appliance > select images "cisco-7200.gns3a", "cisco-asav.gns3a", and "cisco-iosvl2.gns3a": <br/>
+<img src="https://i.imgur.com/VtmYWLI.png" height="80%" width="80%" />
 <br />
 <br />
+
+
