@@ -4,7 +4,7 @@
 Virtualize Network Home Lab with GNS3 and VMware Workstation Player. Install and configure NAT, DNS and DHCP on Ubuntu Linux Server. Deploy and configure a Windows admin client to manage network infrastructure and a Kali Linux user client. Configure 3 routers with static routes, OSPF, QoS and SNMP. Configure 3 swtiches with VLANs, RSTP, QoS, security features/protocols, VRRP and SNMP. Configure 1 firewall with ACLs, IPS/IDS, antivirus, VPN, content filtering, segmented security zones and implicit deny rules. <br />
 
 <h2>Languages and Utilities Used</h2>
-- <b>PowerShell</b> 
+- <b>PowerShell</b> <br />
 - <b>Bash</b> 
 
 <h2>Environments Used </h2>
